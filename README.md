@@ -24,11 +24,8 @@
 We would like to thank the open-source community and contributors behind:
 
 Tesseract OCR
-
 Google Translate API (googletrans)
-
 gTTS (Google Text-to-Speech)
-
 Flask, Dropzone.js, and Bootstrap
 
 Their tools and libraries have made this project possible.
